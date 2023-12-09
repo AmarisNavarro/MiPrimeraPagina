@@ -1,0 +1,61 @@
+*{
+    font-family: Plus Jakarta Sans;
+   background-image: url(https://i.pinimg.com/236x/f2/a6/08/f2a6080f3ac78f0440575d008869fe6b.jpg) ;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+nav ul{
+    list-style: none;
+}
+nav ul li{
+display: inline;
+}
+
+
+
+
+h1{
+    color:black;
+}
+
+p{
+   color: #442432;
+}
+.tituloencuesta{
+    color: #77cca4;
+}
+
+.danielle{
+    border-radius: 40px;
+    border: solid;
+    color: white;
+}
+
+.imagen2{
+    border-radius: 40px;
+    border: solid;
+    color: white;
+}
+
+.ladygaga{
+    border-radius: 40px;
+    border: solid;
+    color: white;
+}
+
+.foto4{
+    border-radius: 40px;
+    border: solid;
+    color: white;
+}
+
+h1{
+    text-align: center;
+    font-size: 20px
+    font-weight: 900px;
+}
+
+.subtitulo{
+    text-align: center;
+}
