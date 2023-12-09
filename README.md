@@ -10,6 +10,6 @@ En este proyecto utilice el editor de Visual Studio Code y los lenguajes HTM y C
 <li>Encuesta para los viewers</li>
 </ol>
 
-###Vista Previa
+### Vista Previa
 
 ![image](https://github.com/AmarisNavarro/MiPrimeraPagina/assets/152136916/8ff7f066-140d-4968-a14b-4d6c40316945)
